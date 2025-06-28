@@ -38,12 +38,6 @@ BTech in Electronics and Communication Engineering from Indian Institute of Spac
 - **Features:** Master-Slave DNS, IPv4/IPv6 DHCP, automated backups, security testing
 - **Automation:** Cron-based backup system, MITM attack simulation with Scapy
 
-### 🤖 [Network Automation Tools](https://github.com/chetan20030990/network-automation-tools)
-**Python scripts** for network monitoring, configuration backup, and automation
-- **Technologies:** Python, Paramiko, SNMP, Network APIs
-- **Features:** Automated config backups, performance monitoring, alerting system
-- **Tools:** IP calculators, config generators, network discovery scripts
-
 ## 💻 Tech Stack
 
 ### Networking & Protocols
